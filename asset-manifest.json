@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Car_Rental_Dashboard/static/css/main.1a94db84.css",
+    "main.js": "/Car_Rental_Dashboard/static/js/main.5dea1174.js",
+    "static/media/remixicon.svg?t=1590207869815": "/Car_Rental_Dashboard/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/Car_Rental_Dashboard/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Car_Rental_Dashboard/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/Car_Rental_Dashboard/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/Car_Rental_Dashboard/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/sell-car.png": "/Car_Rental_Dashboard/static/media/sell-car.97c3ce9640e6ca0a375a.png",
+    "static/media/car-01.png": "/Car_Rental_Dashboard/static/media/car-01.853892a453ff0f4cb988.png",
+    "static/media/car-05.png": "/Car_Rental_Dashboard/static/media/car-05.6381cf2bac4ffbec35e3.png",
+    "static/media/car-04.png": "/Car_Rental_Dashboard/static/media/car-04.2e4cd8463e585fcad69f.png",
+    "static/media/car-06.png": "/Car_Rental_Dashboard/static/media/car-06.487847d405ad076ea08d.png",
+    "static/media/car-02.png": "/Car_Rental_Dashboard/static/media/car-02.afc5836a441bc5fc59ec.png",
+    "static/media/car-03.png": "/Car_Rental_Dashboard/static/media/car-03.65682e78fe239b4a6992.png",
+    "static/media/mini-car-01.png": "/Car_Rental_Dashboard/static/media/mini-car-01.168a343d8c19289fbd29.png",
+    "static/media/mini-car-02.png": "/Car_Rental_Dashboard/static/media/mini-car-02.0a16e0de72a5b214775e.png",
+    "static/media/mini-car-03.png": "/Car_Rental_Dashboard/static/media/mini-car-03.9a9227fff3c5879458cd.png",
+    "index.html": "/Car_Rental_Dashboard/index.html",
+    "main.1a94db84.css.map": "/Car_Rental_Dashboard/static/css/main.1a94db84.css.map",
+    "main.5dea1174.js.map": "/Car_Rental_Dashboard/static/js/main.5dea1174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a94db84.css",
+    "static/js/main.5dea1174.js"
+  ]
+}
